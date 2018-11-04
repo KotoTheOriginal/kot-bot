@@ -1,0 +1,8 @@
+{
+  "name": "kot-bot",
+  "version": "1.0.0",
+  "description": "bep bop",
+  "main": "bot.js",
+  "author": "koto",
+  "dependencies": {}
+}
